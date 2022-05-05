@@ -131,4 +131,5 @@ public class Player {
     public void setUntilNextLevel(int untilNextLevel) {
         this.untilNextLevel = untilNextLevel;
     }
+
 }
