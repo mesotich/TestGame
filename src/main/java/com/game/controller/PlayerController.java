@@ -86,4 +86,5 @@ public class PlayerController {
     public void deletePlayer(@PathVariable Long id) {
         playerRepository.delete(getPlayer(id));
     }
+
 }
